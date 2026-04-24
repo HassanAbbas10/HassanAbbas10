@@ -1,288 +1,216 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:020617,25:1D4ED8,65:06B6D4,100:F97316&text=Hassan%20Abbas&fontSize=56&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Full%20Stack%20Engineer%20crafting%20clean%20UI%20and%20reliable%20systems&descAlignY=58&descSize=18" alt="Hassan Abbas Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0a,40:1a1a1a,80:2d2d2d,100:404040&text=Hassan%20Abbas&fontSize=58&fontAlignY=38&animation=fadeIn&fontColor=f5f5f5&desc=Full%20Stack%20Engineer%20%E2%80%94%20Clean%20UI.%20Solid%20Systems.%20Real%20Products.&descAlignY=60&descSize=17&fontFamily=Georgia" alt="Hassan Abbas" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=Building+with+React%2C+Node.js%2C+and+PostgreSQL;Designing+fast%2C+polished%2C+user-first+experiences;Learning+system+design+and+raising+the+bar+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=15&duration=3500&pause=1000&color=CCCCCC&center=true&vCenter=true&width=780&lines=React+%7C+Node.js+%7C+PostgreSQL+%7C+TypeScript;Turning+complex+problems+into+clean%2C+calm+interfaces;Building+at+developerTag+%E2%80%94+shipping+real+products+daily;System+design%2C+DSA%2C+and+raising+the+bar+every+sprint" alt="Typing SVG" />
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassana-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230a0a0a?style=flat-square&logo=linkedin&logoColor=ffffff&label=&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:hassanabbas05674@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-%230a0a0a?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/HassanAbbas10?tab=followers">
-    <img src="https://img.shields.io/github/followers/HassanAbbas10?style=for-the-badge&logo=github&label=Followers&color=111827" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/HassanAbbas10?style=flat-square&logo=github&label=Followers&color=0a0a0a&labelColor=0a0a0a&logoColor=ffffff" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HassanAbbas10&style=for-the-badge&color=0891B2" alt="Profile Views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HassanAbbas10&style=flat-square&color=1a1a1a&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20at-developerTag-111827?style=flat-square&logo=vercel&logoColor=white" alt="Currently at developerTag" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0F766E?style=flat-square&logo=github&logoColor=white" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/Focused%20on-UI%20%2B%20DX-F97316?style=flat-square&logo=react&logoColor=white" alt="Focused on UI and DX" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="./assets/profile-lab.svg" alt="Hassan Abbas profile lab" width="100%" />
-</p>
+---
 
-<p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#snapshot">Snapshot</a> •
-  <a href="#coffee-mode">Coffee Mode</a> •
-  <a href="#build-style">Build Style</a> •
-  <a href="#learning-radar">Learning Radar</a> •
-  <a href="#tech-toolbox">Tech Toolbox</a> •
-  <a href="#workflow-map">Workflow Map</a> •
-  <a href="#github-dashboard">GitHub Dashboard</a> •
-  <a href="#connect-with-me">Connect</a>
-</p>
+## `$ whoami`
 
-## Snapshot
+```ts
+const hassan: Engineer = {
+  role:      "Full Stack Engineer @ developerTag",
+  stack:     ["React", "TypeScript", "Node.js", "PostgreSQL", "Tailwind"],
+  building:  ["Dashboards", "SaaS Products", "Internal Tools", "API-driven Apps"],
+  learning:  ["DSA", "System Design", "Architecture Patterns", "UX Engineering"],
+  values:    ["Clean UI", "Readable Code", "Developer Experience", "Calm Software"],
+  contact:   "hassanabbas05674@gmail.com",
+};
+```
+
+> Software that feels calm on the surface and solid underneath —  
+> clean interfaces, clear API flow, and code that still makes sense six months later.
+
+---
+
+## Stack
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">Current Role</h3>
-      <p align="center">Full Stack Engineer at <b>developerTag</b></p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">Core Stack</h3>
-      <p align="center">React, Node.js, PostgreSQL, TypeScript</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">Best Work</h3>
-      <p align="center">Dashboards, SaaS products, internal tools, API-driven apps</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">Current Growth</h3>
-      <p align="center">DSA, system design, architecture, UX polish, DX</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-Scalable%20Web%20Apps-0F172A?style=flat-square&logo=github&logoColor=white" alt="Building Scalable Web Apps" />
-  <img src="https://img.shields.io/badge/Designing-Smooth%20Interfaces-1D4ED8?style=flat-square&logo=react&logoColor=white" alt="Designing Smooth Interfaces" />
-  <img src="https://img.shields.io/badge/Improving-System%20Thinking-F97316?style=flat-square&logo=nodedotjs&logoColor=white" alt="Improving System Thinking" />
-</p>
-
-## Coffee Mode
-
-<p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277" alt="Coffee workspace animation" width="100%" />
-</p>
-
-<p align="center">
-  <i>Code, coffee, calm focus, and one more iteration.</i>
-</p>
-
-## About Me
-
-<table>
-  <tr>
-    <td width="56%" valign="top">
+    <td valign="top" width="50%">
+      <h4>Frontend</h4>
       <p>
-        I’m a Full Stack Engineer at <a href="https://developertag.com">developerTag</a> who enjoys turning ideas into polished, scalable, and easy-to-use web products.
-      </p>
-      <ul>
-        <li>Building full stack apps with React, Node.js, PostgreSQL, and modern frontend tooling</li>
-        <li>Interested in system design, performance, clean architecture, and better developer experience</li>
-        <li>Open to open-source collaboration and ambitious product-focused projects</li>
-        <li>I care about thoughtful UI, maintainable code, and smooth user journeys</li>
-        <li>Reach me at <code>hassanabbas05674@gmail.com</code></li>
-      </ul>
-      <p>
-        I like software that feels calm on the surface and solid underneath: clean interfaces, clear API flow, and code that still makes sense later.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20Tailwind-1D4ED8?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Stack" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20PostgreSQL-F97316?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Stack" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26" />
+        <img src="https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/Redux-20232A?style=flat-square&logo=redux&logoColor=764ABC" />
+        <img src="https://img.shields.io/badge/React_Query-20232A?style=flat-square&logo=reactquery&logoColor=FF4154" />
+        <img src="https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF" />
       </p>
     </td>
-    <td width="44%" valign="top">
-      <h3>Right Now</h3>
-      <ul>
-        <li>Shipping production-ready full stack work at developerTag</li>
-        <li>Leveling up in DSA, system design, and frontend architecture</li>
-        <li>Improving product quality through UI polish and better developer experience</li>
-      </ul>
-      <h3>Good Fit For Me</h3>
-      <ul>
-        <li>Dashboards, admin panels, and internal tools</li>
-        <li>Modern SaaS interfaces with strong UX</li>
-        <li>API-driven apps with clean data flow</li>
-      </ul>
-      <pre><code>const hassan = {
-  role: "Full Stack Engineer",
-  style: "polished + practical",
-  learning: ["DSA", "System Design"],
-  values: ["UI", "Performance", "DX"],
-};</code></pre>
+    <td valign="top" width="50%">
+      <h4>Backend & Data</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/Supabase-20232A?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+        <img src="https://img.shields.io/badge/Firebase-20232A?style=flat-square&logo=firebase&logoColor=FFCA28" />
+        <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/JWT-20232A?style=flat-square&logo=jsonwebtokens&logoColor=ffffff" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>DevOps & Tooling</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032" />
+        <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-20232A?style=flat-square&logo=githubactions&logoColor=2088FF" />
+        <img src="https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+        <img src="https://img.shields.io/badge/Postman-20232A?style=flat-square&logo=postman&logoColor=FF6C37" />
+        <img src="https://img.shields.io/badge/Vercel-20232A?style=flat-square&logo=vercel&logoColor=ffffff" />
+      </p>
+    </td>
+    <td valign="top">
+      <h4>UI Libraries</h4>
+      <p>
+        <img src="https://img.shields.io/badge/MUI-20232A?style=flat-square&logo=mui&logoColor=007FFF" />
+        <img src="https://img.shields.io/badge/DaisyUI-20232A?style=flat-square&logo=daisyui&logoColor=1AD1A5" />
+        <img src="https://img.shields.io/badge/React_Hook_Form-20232A?style=flat-square&logo=reacthookform&logoColor=EC5990" />
+        <img src="https://img.shields.io/badge/Chart.js-20232A?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+        <img src="https://img.shields.io/badge/React_Router-20232A?style=flat-square&logo=reactrouter&logoColor=CA4245" />
+      </p>
     </td>
   </tr>
 </table>
 
-## Build Style
+---
+
+## How I Build
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Intentional UI</h3>
-      <p align="center">I care about spacing, hierarchy, interaction flow, and the small details that make software feel well-made.</p>
+    <td width="25%" align="center">
+      <h3>01 — Understand</h3>
+      <p>Start with real constraints. Map the user flow, identify friction, and define what "done" actually means.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Practical Backend</h3>
-      <p align="center">I prefer APIs and architecture that are easy to reason about, extend, debug, and hand off to other developers.</p>
+    <td width="25%" align="center">
+      <h3>02 — Structure</h3>
+      <p>Break the work into clear UI layers, data contracts, and backend responsibilities before touching code.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Ship and Improve</h3>
-      <p align="center">Build something useful, refine the rough edges, learn from it, and raise the standard each time.</p>
+    <td width="25%" align="center">
+      <h3>03 — Build</h3>
+      <p>Maintainable, practical code. No over-engineering. Move fast with strong fundamentals.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>04 — Refine</h3>
+      <p>Polish interactions. Clean rough edges. Improve readability. Raise the bar — then ship again.</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Thinking-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Product Thinking" />
-  <img src="https://img.shields.io/badge/Clean%20Components-1D4ED8?style=for-the-badge&logo=react&logoColor=white" alt="Clean Components" />
-  <img src="https://img.shields.io/badge/Readable%20APIs-F97316?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Readable APIs" />
-  <img src="https://img.shields.io/badge/Better%20DX-0F766E?style=for-the-badge&logo=git&logoColor=white" alt="Better DX" />
-</p>
+---
 
-## Learning Radar
+## Currently
 
 <p align="center">
-  <img src="./assets/learning-radar.svg" alt="Learning radar" width="100%" />
+  <img src="https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277" alt="Coffee and code" width="100%" />
 </p>
+
+<p align="center"><sub><i>Code, coffee, calm focus — one more iteration.</i></sub></p>
+
+- 🔨 **Shipping** production full-stack work at [developerTag](https://developertag.com)
+- 📐 **Leveling up** in DSA, system design, and frontend architecture
+- 🎯 **Focused on** UI polish, DX, and building software that scales cleanly
+- 🤝 **Open to** open-source collab, ambitious product-focused side projects
+
+---
+
+## Currently Reading
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">What I Am Learning</h3>
-      <p align="center">DSA, system design, application structure, and better performance decisions.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Why It Matters</h3>
-      <p align="center">So the things I build are not just functional, but scalable, understandable, and easier to evolve.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">How I Learn</h3>
-      <p align="center">Ship real work, reflect on tradeoffs, sharpen fundamentals, then apply the next improvement fast.</p>
+    <td valign="middle">
+      <h4>📖 &nbsp;Designing Data-Intensive Applications</h4>
+      <p><sub>Martin Kleppmann &nbsp;·&nbsp; O'Reilly Media</sub></p>
+      <p>Deep-diving into how modern data systems are built — replication, partitioning, transactions, consistency, and the tradeoffs behind every architectural decision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/In%20Progress-1a1a1a?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/System%20Design-2d2d2d?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Distributed%20Systems-2d2d2d?style=flat-square&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
-## Tech Toolbox
+---
+
+## Best Fit
+
+```
+✦  Admin dashboards and internal tools
+✦  Modern SaaS interfaces with high UX bar
+✦  API-driven apps with clean data flow
+✦  React-heavy frontends with TypeScript
+✦  Full stack products from schema to UI
+```
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,py,postgres,mongodb,supabase,firebase,redux,git,github,postman,vite,aws&perline=6" alt="Tech Stack" />
-</p>
-
-<details>
-  <summary><b>More tools I work with</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
-    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
-    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-    <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=111827" alt="DaisyUI" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-    <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </p>
-</details>
-
-## Workflow Map
-
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <h3 align="center">1. Understand</h3>
-      <p align="center">Start with the real problem, the user flow, and the friction points that matter.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">2. Structure</h3>
-      <p align="center">Break the work into clear UI pieces, data flow, and backend responsibilities.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">3. Build</h3>
-      <p align="center">Ship maintainable code with practical choices instead of overcomplicating the solution.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3 align="center">4. Refine</h3>
-      <p align="center">Polish interaction, clean rough edges, improve readability, and raise the product quality.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Understand-111827?style=for-the-badge&logo=dependabot&logoColor=white" alt="Understand" />
-  <img src="https://img.shields.io/badge/Structure-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white" alt="Structure" />
-  <img src="https://img.shields.io/badge/Build-F97316?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Build" />
-  <img src="https://img.shields.io/badge/Refine-0F766E?style=for-the-badge&logo=git&logoColor=white" alt="Refine" />
-</p>
-
-## Open To
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Collaboration</h3>
-      <p align="center">Open-source work, product-focused side projects, and full stack ideas with real utility.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Interesting Problems</h3>
-      <p align="center">Admin dashboards, internal systems, developer tools, and thoughtful user-facing web apps.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">What I Value</h3>
-      <p align="center">Clear communication, practical architecture, clean UI, and momentum over noise.</p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Dashboard
-
-<p align="center">
-  <i>Keeping this section lightweight so it stays cleaner and more reliable on GitHub.</i>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HassanAbbas10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=cccccc" alt="Hassan's GitHub stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HassanAbbas10&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=999999&dates=666666&stroke=333333" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HassanAbbas10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Hassan's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=HassanAbbas10&theme=tokyonight&hide_border=true" alt="Hassan's GitHub streak" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAbbas10&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=ffffff&text_color=999999" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAbbas10&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+---
 
-## Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassana-dev/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:hassanabbas05674@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/HassanAbbas10?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Work-1a1a1a?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <i>Building calm, useful software in the middle of chaos.</i>
+  <sub><i>Building calm, useful software — one clean commit at a time.</i></sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:1D4ED8,65:06B6D4,100:F97316" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:404040,50:1a1a1a,100:0a0a0a" width="100%" />
 </p>
