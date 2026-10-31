@@ -26,6 +26,8 @@
 
 <br/>
 
+<p align="center"><a href="#contribution-calendar">Contribution calendar</a> &nbsp; / &nbsp; <a href="#github">GitHub stats</a></p>
+
 ---
 
 ## `$ whoami`
@@ -182,6 +184,14 @@ Full stack products from schema to UI
 
 ## GitHub
 
+### Contribution calendar
+
+<p align="center">
+  <a href="https://github.com/HassanAbbas10?tab=overview">
+    <img src="https://ghchart.rshah.org/BF91F3/HassanAbbas10" alt="Daily GitHub contribution boxes for HassanAbbas10 over the past year" width="100%" />
+  </a>
+</p>
+
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanAbbas10&amp;theme=tokyonight&amp;bg_color=1A1B27&amp;title_color=BF91F3&amp;text_color=A9B1D6&amp;border_color=363B54&amp;icon_color=BF91F3&amp;chart_color=BF91F3" alt="Hassan's GitHub stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=HassanAbbas10&amp;hide_border=true&amp;background=1A1B27&amp;ring=BF91F3&amp;fire=BF91F3&amp;currStreakNum=C0CAF5&amp;sideNums=C0CAF5&amp;currStreakLabel=BF91F3&amp;sideLabels=A9B1D6&amp;dates=8B93AE&amp;stroke=363B54" alt="GitHub streak" />
@@ -191,13 +201,11 @@ Full stack products from schema to UI
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanAbbas10&amp;theme=tokyonight&amp;bg_color=1A1B27&amp;title_color=BF91F3&amp;text_color=A9B1D6&amp;border_color=363B54&amp;icon_color=BF91F3&amp;chart_color=BF91F3" alt="Languages used across public repositories" />
 </p>
 
-<details>
-  <summary>Contribution history</summary>
-  <br />
-  <p align="center">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAbbas10&amp;theme=tokyonight&amp;bg_color=1A1B27&amp;title_color=BF91F3&amp;text_color=A9B1D6&amp;border_color=363B54&amp;icon_color=BF91F3&amp;chart_color=BF91F3" alt="GitHub contribution history" />
-  </p>
-</details>
+### Contribution history
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanAbbas10&amp;theme=tokyonight&amp;bg_color=1A1B27&amp;title_color=BF91F3&amp;text_color=A9B1D6&amp;border_color=363B54&amp;icon_color=BF91F3&amp;chart_color=BF91F3" alt="GitHub contribution history" />
+</p>
 
 ---
 

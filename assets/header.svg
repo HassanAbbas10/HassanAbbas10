@@ -1,10 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Hassan Abbas</title>
   <desc id="desc">Full Stack Engineer — Clean UI. Solid Systems. Real Products.</desc>
-  <rect width="1200" height="320" fill="#1a1b27"/>
-  <text x="600" y="139" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="#bf91f3">Hassan Abbas</text>
-  <text x="600" y="192" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#c0caf5">Full Stack Engineer — Clean UI. Solid Systems. Real Products.</text>
-  <path d="M570 222H630" stroke="#bf91f3" stroke-width="2"/>
+  <defs>
+    <radialGradient id="violet-glow" cx="0" cy="0" r="1" gradientTransform="translate(80 20) scale(700 380)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8060bf" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8060bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue-glow" cx="0" cy="0" r="1" gradientTransform="translate(1160 300) scale(650 380)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4679bc" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#4679bc" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#bf91f3" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#bf91f3"/>
+      <stop offset="1" stop-color="#70a5fd" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="14" fill="#1a1b27"/>
+  <rect width="1200" height="320" rx="14" fill="url(#violet-glow)"/>
+  <rect width="1200" height="320" rx="14" fill="url(#blue-glow)"/>
+  <path d="M24 1H1176" stroke="url(#accent)"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="128" font-size="80" font-weight="700" letter-spacing="-2" fill="#e8eaf6">Hassan Abbas</text>
+    <text x="600" y="181" font-size="30" font-weight="500" fill="#bf91f3">Full Stack Engineer</text>
+    <text x="600" y="223" font-size="23" fill="#c0caf5">Clean UI. Solid Systems. Real Products.</text>
+  </g>
+  <path d="M540 254H660" stroke="url(#accent)" stroke-width="2"/>
   <path d="M0 307C230 267 398 312 620 294S1008 277 1200 302V320H0Z" fill="#202334"/>
-  <path d="M0 307C230 267 398 312 620 294S1008 277 1200 302" fill="none" stroke="#6d5b9d" stroke-width="1"/>
+  <path d="M0 307C230 267 398 312 620 294S1008 277 1200 302" fill="none" stroke="url(#accent)"/>
 </svg>
