@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Hassan Abbas</title>
+  <desc id="desc">Full Stack Engineer — Clean UI. Solid Systems. Real Products.</desc>
+  <rect width="1200" height="320" fill="#0a0a0a"/>
+  <text x="600" y="139" text-anchor="middle" font-family="Georgia, 'Liberation Serif', serif" font-size="76" font-weight="700" fill="#ff8a3d">Hassan Abbas</text>
+  <text x="600" y="192" text-anchor="middle" font-family="Georgia, 'Liberation Serif', serif" font-size="21" fill="#d1ccc7">Full Stack Engineer — Clean UI. Solid Systems. Real Products.</text>
+  <path d="M570 222H630" stroke="#ff8a3d" stroke-width="2"/>
+  <path d="M0 307C230 267 398 312 620 294S1008 277 1200 302V320H0Z" fill="#16110e"/>
+  <path d="M0 307C230 267 398 312 620 294S1008 277 1200 302" fill="none" stroke="#a64b1c" stroke-width="1"/>
+</svg>

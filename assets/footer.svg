@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="85" viewBox="0 0 1200 85" role="img" aria-labelledby="title">
+  <title id="title">Black and orange wave footer</title>
+  <rect width="1200" height="85" fill="#0a0a0a"/>
+  <path d="M0 33C219 76 433 19 656 41S1030 66 1200 30V85H0Z" fill="#20140e"/>
+  <path d="M0 33C219 76 433 19 656 41S1030 66 1200 30" fill="none" stroke="#ff8a3d" stroke-width="1.5"/>
+</svg>
